@@ -1,3 +1,0 @@
-ihello
-hello world
-myfirstfile

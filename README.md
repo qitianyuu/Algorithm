@@ -1,3 +1,2 @@
-# text
-MyFirstRepository
-xinjiaru
+# Algorithm
+### LeetCode Exercise list
