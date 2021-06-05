@@ -2,14 +2,19 @@ package com.qi.algorithm.linkedList;
 
 import com.qi.algorithm.entity.ListNode;
 
-import static com.qi.algorithm.util.Tool.*;
+import static com.qi.algorithm.util.Tool.printLinkList;
 
 /**
- * Description:翻转链表
+ * Description:给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
  * Author: Qi
  * Date: 06-04-2021
  */
 public class No206 {
+    /**
+     * 迭代算法
+     * @param head
+     * @return
+     */
     public ListNode reverseList(ListNode head) {
         ListNode p = null;
         ListNode c = head;
@@ -22,24 +27,34 @@ public class No206 {
         return p;
     }
 
+    /**
+     * 递归算法
+     * @param head
+     * @return
+     */
+    public ListNode reverseList1(ListNode head){
+        if (head.next == null){return head;}
+        ListNode last = reverseList1(head.next);
+        head.next.next = head;
+        head.next = null;
+        return last;
+    }
+
     public static void main(String[] args) {
         No206 no206 = new No206();
-        ListNode l1 = new ListNode();
-        ListNode l2 = new ListNode();
-        ListNode l3 = new ListNode();
-        ListNode l4 = new ListNode();
-        ListNode l5 = new ListNode();
+        ListNode l1 = new ListNode(1);
+        ListNode l2 = new ListNode(2);
+        ListNode l3 = new ListNode(3);
+        ListNode l4 = new ListNode(4);
+        ListNode l5 = new ListNode(5);
         l1.setNext(l2);
         l2.setNext(l3);
         l3.setNext(l4);
         l4.setNext(l5);
-        l1.setVal(1);
-        l2.setVal(2);
-        l3.setVal(3);
-        l4.setVal(4);
-        l5.setVal(5);
         printLinkList(l1);
-        l1 = no206.reverseList(l1);
+        l1 = no206.reverseList1(l1);
+        printLinkList(l1);
+        l1 = no206.reverseList1(l1);
         printLinkList(l1);
     }
 }
