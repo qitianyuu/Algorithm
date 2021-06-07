@@ -32,25 +32,6 @@ public class No92 {
         return head;
     }
 
-    //k个一组反转链表
-    //public ListNode reverseBetween1(ListNode head, int step){
-    //    int all = 0;
-    //    ListNode c = head;
-    //    while (c != null){
-    //        c = c.next;
-    //        all++;
-    //    }
-    //    step--;
-    //    for (int i = 1; ; i = step + i + 1){
-    //        //if (i > all){
-    //        if (i + step > all){
-    //            break;
-    //        }
-    //        head = reverseBetween(head, i, i + step);
-    //        printLinkList(head);
-    //    }
-    //    return head;
-    //}
 
     public static void main(String[] args) {
         No92 no92 = new No92();
