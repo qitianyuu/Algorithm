@@ -18,4 +18,15 @@ public class Tool {
         System.out.println(listNode.val);
         System.out.println("finish!");
     }
+
+    public static ListNode initLinkList(int[] input){
+        ListNode head = new ListNode();
+        ListNode c = head;
+        for (int i = 0; i < input.length; i++) {
+            ListNode tmp = new ListNode(input[i]);
+            c.next = tmp;
+            c = c.next;
+        }
+        return head.next;
+    }
 }

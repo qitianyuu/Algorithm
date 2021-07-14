@@ -12,7 +12,9 @@ import lombok.Data;
 public class ListNode {
     public ListNode next;
     public int val;
-    public ListNode(int x){val = x;}
+    public ListNode() {}
+    public ListNode(int x){this.val = x;}
+    public ListNode(int x, ListNode next){this.val = x; this.next = next;}
 }
 
 

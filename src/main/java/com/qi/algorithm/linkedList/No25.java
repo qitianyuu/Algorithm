@@ -8,6 +8,7 @@ import com.qi.algorithm.entity.ListNode;
  * Date: 06-07-2021
  */
 public class No25 {
+    //反转前n个
     ListNode tmp = null;
     public ListNode reverseN(ListNode head, int n){
         if (n == 1){
@@ -26,6 +27,7 @@ public class No25 {
         head.next = reverseBetween(head.next, left - 1, right - 1);
         return head;
     }
+    //k个一组反转(迭代法)
     public ListNode reverseKGroup(ListNode head, int k) {
         int all = 0;
         ListNode c = head;
@@ -43,4 +45,37 @@ public class No25 {
         }
         return head;
     }
+
+    //k个一组反转(递归法)
+    public ListNode reverseab(ListNode a, ListNode b){
+        ListNode p, c, n;
+        p = null;
+        c = a;
+        while(c != b){
+            n = c.next;
+            c.next = p;
+            p = c;
+            c = n;
+        }
+        return p;
+    }
+
+    public ListNode reverseKgroup(ListNode head, int k){
+        if (head == null){
+            return head;
+        }
+        ListNode a, b;
+        a = b = head;
+        for (int i = 0; i < k; i++) {
+            if (b == null){
+                return head;
+            }
+            b = b.next;
+        }
+        ListNode newhade = reverseab(a,b);
+        a.next = reverseKGroup(b,k);
+        return newhade;
+    }
+
+
 }
