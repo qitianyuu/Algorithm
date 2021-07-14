@@ -10,6 +10,9 @@ import com.qi.algorithm.entity.ListNode;
 public class Tool {
 
     public static void printLinkList(ListNode head){
+        if (head == null){
+            return;
+        }
         ListNode listNode = head;
         while (listNode.next != null){
             System.out.print(listNode.val + " -> ");
