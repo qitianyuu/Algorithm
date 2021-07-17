@@ -36,3 +36,15 @@ LeedCode.82 Remove Duplicates from Sorted List II(删除排序链表中的重复
 LeedCode.86 Partition List(分隔链表)
 
 LeedCode.142  Linked List Cycle II (环形链表 II)
+
+LeedCode.143  Reorder List (重排链表)(字节)
+
+LeedCode.328  Odd Even Linked List (偶链表)*
+
+LeedCode.382  Linked List Random Node (链表随机节点)
+
+LeedCode.445  Add Two Numbers II (两数相加 II)
+
+LeedCode.1721 Swapping Nodes in a Linked List (交换链表中的节点)
+
+LeedCode.1669 Merge In Between Linked Lists (合并两个链表)
