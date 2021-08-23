@@ -48,3 +48,14 @@ LeedCode.445  Add Two Numbers II (两数相加 II)
 LeedCode.1721 Swapping Nodes in a Linked List (交换链表中的节点)
 
 LeedCode.1669 Merge In Between Linked Lists (合并两个链表)
+
+LeedCode.147 Insertion Sort List (对链表进行插入排序)
+
+LeedCode.13 Roman to Integer (罗马数字转整数)
+
+LeedCode.14 Longest Common Prefix (最长公共前缀)
+
+LeedCode.20 Valid Parentheses (有效的括号)
+
+LeedCode.58  Length of Last Word (最后一个单词的长度)
+

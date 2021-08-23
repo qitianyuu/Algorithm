@@ -33,3 +33,4 @@ build/
 ### VS Code ###
 .vscode/
 /src/main/java/com/qi/algorithm/testClass.java
+/src/main/java/com/qi/algorithm/miniGame/
