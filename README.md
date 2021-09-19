@@ -57,5 +57,168 @@ LeedCode.14 Longest Common Prefix (最长公共前缀)
 
 LeedCode.20 Valid Parentheses (有效的括号)
 
-LeedCode.58  Length of Last Word (最后一个单词的长度)
+LeedCode.58 Length of Last Word (最后一个单词的长度)
 
+LeedCode.67 Add Binary (二进制求和)
+
+LeedCode.168 Excel Sheet Column Title Excel (表列名称) *
+
+LeedCode.171 Excel Sheet Column Number Excel (表列序号)
+
+LeedCode.205 Isomorphic Strings (同构字符串)
+
+LeedCode.242 Valid Anagram (有效的字母异位词)
+
+LeedCode.290 Word Pattern (单词规律)
+
+LeedCode.344 Reverse String (反转字符串)
+
+LeedCode.383 Ransom Note (赎金信)
+
+LeedCode.387 First Unique Character in a String (字符串中的第一个唯一字符)
+
+LeedCode.434 Number of Segments in a String (字符串中的单词数)
+
+LeedCode.415 Add Strings (字符串相加)
+
+LeedCode.226 Invert Binary Tree (翻转二叉树)
+
+LeedCode.116 Populating Next Right Pointers in Each Node (填充每个节点的下一个右侧节点指针)
+
+LeedCode.114 Flatten Binary Tree to Linked List (二叉树展开为链表) 迭代前序遍历
+
+LeedCode.94 Binary Tree Inorder Traversal (二叉树的中序遍历)
+
+LeedCode.100 Same Tree (相同的树)
+
+LeedCode.101 Symmetric Tree (对称二叉树)
+
+LeedCode.104 Maximum Depth of Binary Tree (二叉树的最大深度)
+
+LeedCode.111 Minimum Depth of Binary Tree (二叉树的最小深度)
+
+LeedCode.108 Convert Sorted Array to Binary Search Tree (将有序数组转换为二叉搜索树)
+
+LeedCode.112 Path Sum (路径总和)
+
+LeedCode.144 Binary Tree Preorder Traversal (二叉树的前序遍历)
+
+LeedCode.257 Binary Tree Paths (二叉树的所有路径)
+
+LeedCode.404 Sum of Left Leaves (左叶子之和)
+
+LeedCode.530 Minimum Absolute Difference in BST (二叉搜索树的最小绝对差)
+
+LeedCode.235 Lowest Common Ancestor of a Binary Search Tree (二叉搜索树的最近公共祖先)
+
+LeedCode.236 Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先)
+
+LeedCode.543 Diameter of Binary Tree (二叉树的直径)*
+
+LeedCode.563 Binary Tree Tilt (二叉树的坡度)
+
+LeedCode.572 Subtree of Another Tree (另一棵树的子树)*
+
+LeedCode.617 Merge Two Binary Trees (合并二叉树)
+
+LeedCode.637 Average of Levels in Binary Tree (二叉树的层平均值)*
+
+LeedCode.671 Second Minimum Node In a Binary Tree (二叉树中第二小的节点)
+
+LeedCode.700 Search in a Binary Search Tree (二叉搜索树中的搜索)
+
+LeedCode.872 Leaf-Similar Trees (叶子相似的树)
+
+LeedCode.897 Increasing Order Search Tree (递增顺序搜索树)
+
+LeedCode.938 Range Sum of BST (二叉搜索树的范围和)
+
+LeedCode.965 Univalued Binary Tree (单值二叉树)
+
+LeedCode.1022 Sum of Root To Leaf Binary Numbers (从根到叶的二进制数之和) 栈遍历
+
+LeedCode.653 Two Sum IV - Input is a BST (两数之和 IV - 输入 BST)
+
+LeedCode.606 Construct String from Binary Tree (根据二叉树创建字符串)
+
+LeedCode.110 Balanced Binary Tree (平衡二叉树)*
+
+LeedCode.2 Add Two Numbers (两数相加)
+
+LeedCode.109 Convert Sorted List to Binary Search Tree (有序链表转换二叉搜索树)
+
+LeedCode.6 ZigZag Conversion Z (字形变换)
+
+LeedCode.8 String to Integer (atoi) (字符串转换整数 (atoi))
+
+LeedCode.17 Letter Combinations of a Phone Number (电话号码的字母组合)
+
+LeedCode.15 3Sum (三数之和)
+
+LeedCode.36 Valid Sudoku (有效的数独)
+
+LeedCode.38 Count and Say (外观数列)
+
+LeedCode.46 Permutations (全排列)
+
+LeedCode.49 Group Anagrams (字母异位词分组)
+
+LeedCode.22 Generate Parentheses (括号生成)
+
+LeedCode.39 Combination Sum (组合总和)
+
+LeedCode.40 Combination Sum II (组合总和 II)
+
+LeedCode.54 Spiral Matrix (螺旋矩阵)
+
+LeedCode.56 Merge Intervals (合并区间)
+
+LeedCode.75 Sort Colors (颜色分类)
+
+LeedCode.77 Combinations (组合)
+
+LeedCode.62 Unique Paths (不同路径)
+
+LeedCode.64 Minimum Path Sum (最小路径和)
+
+LeedCode.71 Simplify Path (简化路径)
+
+LeedCode.73 Set Matrix Zeroes (矩阵置零)
+
+LeedCode.74 Search a 2D Matrix (搜索二维矩阵)
+
+LeedCode.57 Insert Interval (插入区间)
+
+LeedCode.80 Remove Duplicates from Sorted Array II (删除有序数组中的重复项 II)*
+
+LeedCode.63 Unique Paths II (不同路径 II)
+
+LeedCode.89 Gray Code (格雷编码)*
+
+LeedCode.34 Find First and Last Position of Element in Sorted Array (在排序数组中查找元素的第一个和最后一个位置)
+
+LeedCode.78 Subsets (子集)
+
+LeedCode.79 Word Search (单词搜索)
+
+LeedCode.11 Container With Most Water (盛最多水的容器)
+
+LeedCode.447 Number of Boomerangs (回旋镖的数量)
+
+LeedCode.451 Sort Characters By Frequency (根据字符出现频率排序)
+
+LeedCode.452 Minimum Number of Arrows to Burst Balloons (用最少数量的箭引爆气球)
+
+LeedCode.462 Minimum Moves to Equal Array Elements II (最少移动次数使数组元素相等 II)
+
+LeedCode.12 Integer to Roman (整数转罗马数字)
+
+LeedCode.477 Total Hamming Distance (汉明距离总和)
+
+LeedCode.497 Increasing Subsequences (递增子序列) 回溯的性能问题
+
+LeedCode.457 Circular Array Loop (环形数组是否存在循环)
+
+LeedCode.481 Magical String (神奇字符串)
+
+LeedCode.494 Target Sum (目标和)
