@@ -215,10 +215,18 @@ LeedCode.12 Integer to Roman (整数转罗马数字)
 
 LeedCode.477 Total Hamming Distance (汉明距离总和)
 
-LeedCode.497 Increasing Subsequences (递增子序列) 回溯的性能问题
+LeedCode.491 Increasing Subsequences (递增子序列) 回溯的性能问题
 
 LeedCode.457 Circular Array Loop (环形数组是否存在循环)
 
 LeedCode.481 Magical String (神奇字符串)
 
 LeedCode.494 Target Sum (目标和)
+
+LeedCode.513 Find Bottom Left Tree Value (找树左下角的值)
+
+LeedCode.496 Next Greater Element I (下一个更大元素 I)
+
+LeedCode.503 Next Greater Element II (下一个更大元素 II)
+
+LeedCode.515 Find Largest Value in Each Tree Row (在每个树行中找最大值)

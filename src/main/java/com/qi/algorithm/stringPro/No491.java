@@ -12,7 +12,7 @@ import java.util.List;
  * Author: Qi
  * Date: 09-18-2021
  */
-public class No497 {
+public class No491 {
 
     List<List<Integer>> ans = new ArrayList<>();
     List<Integer> tmp = new ArrayList<>();
@@ -61,8 +61,8 @@ public class No497 {
     }
 
     public static void main(String[] args) {
-        No497 no497 = new No497();
-        List<List<Integer>> ans = no497.findSubsequences(new int[]{4,6,7,7});
+        No491 no491 = new No491();
+        List<List<Integer>> ans = no491.findSubsequences(new int[]{4,6,7,7});
         System.out.println(ans.toString());
     }
 }
