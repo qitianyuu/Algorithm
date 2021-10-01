@@ -25,6 +25,34 @@ public class No34 {
         return new int[]{begin, end};
     }
 
+    public int[] searchRange1(int[] nums, int target) {
+        // 计算左右边界，二分查找
+        int l = bsSearch(nums, target, true);
+        int r = bsSearch(nums, target, false) - 1;
+        // 判断答案是否有意义
+        if (l <= r && r < nums.length && nums[l] == target && nums[r] == target) {
+            return new int[]{l, r};
+        }
+        return new int[]{-1, -1};
+    }
+
+    public int bsSearch(int[] nums, int target, boolean lower) {
+        int left = 0, right = nums.length - 1, ans = nums.length;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            // 左
+            if (nums[mid] > target || (lower && nums[mid] >= target)) {
+                right = mid - 1;
+                ans = mid;
+            } else {
+                // 右
+                left = mid + 1;
+            }
+        }
+        return ans;
+    }
+
+
     public static void main(String[] args) {
         No34 no34 = new No34();
         int[] ints = no34.searchRange(new int[]{5, 7, 7, 8, 8, 10}, 6);

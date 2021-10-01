@@ -34,3 +34,4 @@ build/
 .vscode/
 /src/main/java/com/qi/algorithm/testClass.java
 /src/main/java/com/qi/algorithm/miniGame/
+/src/main/java/com/qi/algorithm/zhongguorenshou/

@@ -230,3 +230,21 @@ LeedCode.496 Next Greater Element I (下一个更大元素 I)
 LeedCode.503 Next Greater Element II (下一个更大元素 II)
 
 LeedCode.515 Find Largest Value in Each Tree Row (在每个树行中找最大值)
+
+LeedCode.139 Word Break (单词拆分)
+
+LeedCode.128 Longest Consecutive Sequence (最长连续序列)
+
+LeedCode.55 Jump Game (跳跃游戏)
+
+LeedCode.169 Majority Element (多数元素)
+
+LeedCode.198 House Robber (打家劫舍)
+
+LeedCode.200 Number of Islands (岛屿数量)
+
+LeedCode.207 Course Schedule (课程表)
+
+LeedCode.221 Maximal Square (最大正方形)
+
+LeedCode.70 Climbing Stairs (爬楼梯)
