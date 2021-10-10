@@ -248,3 +248,11 @@ LeedCode.207 Course Schedule (课程表)
 LeedCode.221 Maximal Square (最大正方形)
 
 LeedCode.70 Climbing Stairs (爬楼梯)
+
+LeedCode.31 Next Permutation (下一个排列)
+
+LeedCode.96 Unique Binary Search Trees (不同的二叉搜索树)
+
+LeedCode.102 Binary Tree Level Order Traversal (二叉树的层序遍历)
+
+LeedCode.121 Best Time to Buy and Sell Stock (买卖股票的最佳时机)
