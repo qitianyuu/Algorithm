@@ -256,3 +256,7 @@ LeedCode.96 Unique Binary Search Trees (不同的二叉搜索树)
 LeedCode.102 Binary Tree Level Order Traversal (二叉树的层序遍历)
 
 LeedCode.121 Best Time to Buy and Sell Stock (买卖股票的最佳时机)
+
+LeedCode.300 Longest Increasing Subsequence (最长递增子序列)
+
+LeedCode.647 Palindromic Substrings (回文子串)
