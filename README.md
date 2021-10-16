@@ -260,3 +260,7 @@ LeedCode.121 Best Time to Buy and Sell Stock (买卖股票的最佳时机)
 LeedCode.300 Longest Increasing Subsequence (最长递增子序列)
 
 LeedCode.647 Palindromic Substrings (回文子串)
+
+LeedCode.581 Shortest Unsorted Continuous Subarray (最短无序连续子数组)
+
+LeedCode.461 Hamming Distance (汉明距离)
