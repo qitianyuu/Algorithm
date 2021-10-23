@@ -270,3 +270,15 @@ LeedCode.53 Maximum Subarray (最大子序和)
 LeedCode.152 Maximum Product Subarray (乘积最大子数组)
 
 LeedCode.240 Search a 2D Matrix II (搜索二维矩阵 II)
+
+LeedCode.337 House Robber III (打家劫舍 III)
+
+LeedCode.739 Daily Temperatures (每日温度)
+
+LeedCode.560 Subarray Sum Equals K (和为 K 的子数组)
+
+LeedCode.538 Convert BST to Greater Tree (把二叉搜索树转换为累加树)
+
+LeedCode.448 Find All Numbers Disappeared in an Array (找到所有数组中消失的数字)
+
+LeedCode.438 Find All Anagrams in a String (找到字符串中所有字母异位词)
