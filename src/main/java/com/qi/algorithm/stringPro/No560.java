@@ -11,6 +11,8 @@ import java.util.Map;
  *      出现的次数就是能刚好得到字串的个数 即 pi + pj = target。注意，先放一个 {0，1} 进去防止有元素和 target
  *      相等的情况。
  *
+ *      前缀和
+ *
  * Author: Qi
  * Date: 10-23-2021
  */
