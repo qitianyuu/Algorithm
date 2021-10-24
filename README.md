@@ -284,3 +284,7 @@ LeedCode.448 Find All Numbers Disappeared in an Array (找到所有数组中消�
 LeedCode.438 Find All Anagrams in a String (找到字符串中所有字母异位词)
 
 LeedCode.437 Path Sum III (路径总和 III)
+
+LeedCode.416 Partition Equal Subset Sum (分割等和子集)
+
+LeedCode.406 Queue Reconstruction by Height (根据身高重建队列)
