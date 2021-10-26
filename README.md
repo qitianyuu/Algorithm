@@ -288,3 +288,9 @@ LeedCode.437 Path Sum III (路径总和 III)
 LeedCode.416 Partition Equal Subset Sum (分割等和子集)
 
 LeedCode.406 Queue Reconstruction by Height (根据身高重建队列)
+
+LeedCode.494 Target Sum (目标和) 0-1 背包解法
+
+LeedCode.338 Counting Bits (比特位计数)
+
+LeedCode.130 Surrounded Regions (被围绕的区域)
