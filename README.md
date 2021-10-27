@@ -293,6 +293,8 @@ LeedCode.494 Target Sum (目标和) 0-1 背包解法
 
 LeedCode.338 Counting Bits (比特位计数)
 
+LeedCode.771 Jewels and Stones (宝石与石头)
+
 LeedCode.130 Surrounded Regions (被围绕的区域)
 
 LeedCode.905 Sort Array By Parity (按奇偶排序数组)
