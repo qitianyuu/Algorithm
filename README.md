@@ -298,3 +298,9 @@ LeedCode.771 Jewels and Stones (宝石与石头)
 LeedCode.130 Surrounded Regions (被围绕的区域)
 
 LeedCode.905 Sort Array By Parity (按奇偶排序数组)
+
+LeedCode.47 Permutations II (全排列 II)
+
+LeedCode.869 Reordered Power of 2 (重新排序得到 2 的幂)
+
+LeedCode.260 Single Number III (只出现一次的数字 III)
