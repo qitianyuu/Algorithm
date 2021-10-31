@@ -304,3 +304,7 @@ LeedCode.47 Permutations II (全排列 II)
 LeedCode.869 Reordered Power of 2 (重新排序得到 2 的幂)
 
 LeedCode.260 Single Number III (只出现一次的数字 III)
+
+LeedCode.500 Keyboard Row (键盘行)
+
+LeedCode.1752 Check if Array Is Sorted and Rotated (检查数组是否经排序和轮转得到)
