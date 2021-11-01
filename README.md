@@ -308,3 +308,7 @@ LeedCode.260 Single Number III (只出现一次的数字 III)
 LeedCode.500 Keyboard Row (键盘行)
 
 LeedCode.1752 Check if Array Is Sorted and Rotated (检查数组是否经排序和轮转得到)
+
+LeedCode.575 Distribute Candies (分糖果)
+
+LeedCode.1975 Maximum Matrix Sum (最大方阵和)
