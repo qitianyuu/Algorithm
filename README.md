@@ -312,3 +312,7 @@ LeedCode.1752 Check if Array Is Sorted and Rotated (检查数组是否经排序�
 LeedCode.575 Distribute Candies (分糖果)
 
 LeedCode.1975 Maximum Matrix Sum (最大方阵和)
+
+LeedCode.237 Delete Node in a Linked List (删除链表中的节点)
+
+LeedCode.861 Score After Flipping Matrix (翻转矩阵后的得分)
