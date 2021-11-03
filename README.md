@@ -316,3 +316,7 @@ LeedCode.1975 Maximum Matrix Sum (最大方阵和)
 LeedCode.237 Delete Node in a Linked List (删除链表中的节点)
 
 LeedCode.861 Score After Flipping Matrix (翻转矩阵后的得分)
+
+LeedCode.1512 Number of Good Pairs (好数对的数目)
+
+LeedCode.42 Trapping Rain Water (接雨水)
