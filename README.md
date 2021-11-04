@@ -326,3 +326,9 @@ LeedCode.367 Valid Perfect Square (有效的完全平方数)
 LeedCode_Offer.14- I. 剪绳子
 
 LeedCode.2048 Next Greater Numerically Balanced Number (下一个更大的数值平衡数)
+
+LeedCode.1779 Find Nearest Point That Has the Same X or Y Coordinate (找到最近的有相同 X 或 Y 坐标的点)
+
+LeedCode.45 Jump Game II (跳跃游戏 II)
+
+LeedCode.1318  Minimum Flips to Make a OR b Equal to c (或运算的最小翻转次数)
