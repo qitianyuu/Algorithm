@@ -320,3 +320,9 @@ LeedCode.861 Score After Flipping Matrix (翻转矩阵后的得分)
 LeedCode.1512 Number of Good Pairs (好数对的数目)
 
 LeedCode.42 Trapping Rain Water (接雨水)
+
+LeedCode.367 Valid Perfect Square (有效的完全平方数)
+
+LeedCode_Offer.14- I. 剪绳子
+
+LeedCode.2048 Next Greater Numerically Balanced Number (下一个更大的数值平衡数)
