@@ -331,4 +331,10 @@ LeedCode.1779 Find Nearest Point That Has the Same X or Y Coordinate (找到最�
 
 LeedCode.45 Jump Game II (跳跃游戏 II)
 
-LeedCode.1318  Minimum Flips to Make a OR b Equal to c (或运算的最小翻转次数)
+LeedCode.1318 Minimum Flips to Make a OR b Equal to c (或运算的最小翻转次数)
+
+LeedCode.1218 Longest Arithmetic Subsequence of Given Difference (最长定差子序列)
+
+LeedCode.650 2 Keys Keyboard (只有两个键的键盘)
+
+LeedCode.1079 Letter Tile Possibilities (活字印刷)
