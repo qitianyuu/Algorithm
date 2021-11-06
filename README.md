@@ -338,3 +338,7 @@ LeedCode.1218 Longest Arithmetic Subsequence of Given Difference (最长定差�
 LeedCode.650 2 Keys Keyboard (只有两个键的键盘)
 
 LeedCode.1079 Letter Tile Possibilities (活字印刷)
+
+LeedCode.268 Missing Number (丢失的数字)
+
+LeedCode.191 Number of 1 Bits (位1的个数)
