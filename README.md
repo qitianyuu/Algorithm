@@ -344,3 +344,5 @@ LeedCode.268 Missing Number (丢失的数字)
 LeedCode.191 Number of 1 Bits (位1的个数)
 
 LeedCode.893 Groups of Special-Equivalent Strings (特殊等价字符串组)
+
+LeedCode.598 Range Addition II (范围求和 II)
