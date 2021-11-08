@@ -350,3 +350,11 @@ LeedCode.598 Range Addition II (范围求和 II)
 LeedCode.216 Combination Sum III (组合总和 III)
 
 LeedCode.299 Bulls and Cows (猜数字游戏)
+
+LeedCode.223 Rectangle Area (矩形面积)
+
+LeedCode.189 Rotate Array (旋转数组)
+
+LeedCode.201 Bitwise AND of Numbers Range (数字范围按位与)
+
+LeedCode.179 Largest Number (最大数)
