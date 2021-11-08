@@ -346,3 +346,7 @@ LeedCode.191 Number of 1 Bits (位1的个数)
 LeedCode.893 Groups of Special-Equivalent Strings (特殊等价字符串组)
 
 LeedCode.598 Range Addition II (范围求和 II)
+
+LeedCode.216 Combination Sum III (组合总和 III)
+
+LeedCode.299 Bulls and Cows (猜数字游戏)
