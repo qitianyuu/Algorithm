@@ -358,3 +358,11 @@ LeedCode.189 Rotate Array (旋转数组)
 LeedCode.201 Bitwise AND of Numbers Range (数字范围按位与)
 
 LeedCode.179 Largest Number (最大数)
+
+LeedCode.193 Valid Phone Numbers (有效电话号码)
+
+LeedCode.195 Tenth Line (第十行)
+
+LeedCode.274 H-Index (H 指数)
+
+LeedCode.264 Ugly Number II (丑数 II)
