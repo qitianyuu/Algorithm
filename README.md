@@ -372,3 +372,13 @@ LeedCode.176 Second Highest Salary (第二高的薪水)
 LeedCode.238 Product of Array Except Self (除自身以外数组的乘积)
 
 LeedCode.184 Department Highest Salary (部门工资最高的员工)
+
+LeedCode.495 Teemo Attacking (提莫攻击)
+
+LeedCode.343 Integer Break (整数拆分)
+
+LeedCode.347 Top K Frequent Elements (前 K 个高频元素)
+
+LeedCode.357 Count Numbers with Unique Digits (计算各个位数不同的数字个数)
+
+LeedCode.318 Maximum Product of Word Lengths (最大单词长度乘积)

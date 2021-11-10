@@ -4,6 +4,7 @@ package com.qi.algorithm.stringPro;
  * Description: 14- I. 剪绳子
  *
  * 思路：本题是数学证明题，当分为长度为 3 的绳子时有最大的乘积，因此对三取整，取余，计算乘积
+ *      同 No343
  *
  * Author: Qi
  * Date: 11-04-2021
