@@ -366,3 +366,9 @@ LeedCode.195 Tenth Line (第十行)
 LeedCode.274 H-Index (H 指数)
 
 LeedCode.264 Ugly Number II (丑数 II)
+
+LeedCode.176 Second Highest Salary (第二高的薪水)
+
+LeedCode.238 Product of Array Except Self (除自身以外数组的乘积)
+
+LeedCode.184 Department Highest Salary (部门工资最高的员工)
