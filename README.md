@@ -382,3 +382,5 @@ LeedCode.347 Top K Frequent Elements (前 K 个高频元素)
 LeedCode.357 Count Numbers with Unique Digits (计算各个位数不同的数字个数)
 
 LeedCode.318 Maximum Product of Word Lengths (最大单词长度乘积)
+
+LeedCode.289 Game of Life (生命游戏)
