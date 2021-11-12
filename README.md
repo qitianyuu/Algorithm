@@ -384,3 +384,5 @@ LeedCode.357 Count Numbers with Unique Digits (计算各个位数不同的数字
 LeedCode.318 Maximum Product of Word Lengths (最大单词长度乘积)
 
 LeedCode.289 Game of Life (生命游戏)
+
+LeedCode.372 Super Pow (超级次方)
