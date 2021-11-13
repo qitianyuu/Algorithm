@@ -386,3 +386,5 @@ LeedCode.318 Maximum Product of Word Lengths (最大单词长度乘积)
 LeedCode.289 Game of Life (生命游戏)
 
 LeedCode.372 Super Pow (超级次方)
+
+LeedCode.520 Detect Capital (检测大写字母)
