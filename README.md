@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Name-qitianyuu-blue.svg?" alt="">
 </p>
-<h1 align="center">LeetCode 的解答</h1>
+<h1 align="center">LeetCode 的刷提记录</h1>
 
 
 | # | Name | 题名 |
@@ -170,7 +170,7 @@
 |LeedCode.1512|Number of Good Pairs |好数对的数目|
 |LeedCode.42|Trapping Rain Water |接雨水|
 |LeedCode.367|Valid Perfect Square |有效的完全平方数|
-|LeedCode_Offer.14|剪绳子
+|LeedCode_Offer.14|Cut the rope|剪绳子|
 |LeedCode.2048|Next Greater Numerically Balanced Number |下一个更大的数值平衡数|
 |LeedCode.1779|Find Nearest Point That Has the Same X or Y Coordinate |找到最近的有相同 X 或 Y 坐标的点|
 |LeedCode.45|Jump Game II |跳跃游戏 II|
@@ -203,4 +203,5 @@
 |LeedCode.289|Game of Life |生命游戏|
 |LeedCode.372|Super Pow |超级次方|
 |LeedCode.520|Detect Capital |检测大写字母|
+|LeedCode.375|Guess Number Higher or Lower|II 猜数字大小 II|
 
