@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Name-qitianyuu-blue.svg?" alt="">
 </p>
-<h1 align="center">LeetCode 的刷提记录</h1>
+<h1 align="center">LeetCode 的刷题记录</h1>
 
 
 | # | Name | 题名 |
@@ -203,5 +203,7 @@
 |LeedCode.289|Game of Life |生命游戏|
 |LeedCode.372|Super Pow |超级次方|
 |LeedCode.520|Detect Capital |检测大写字母|
-|LeedCode.375|Guess Number Higher or Lower|II 猜数字大小 II|
+|LeedCode.375|Guess Number Higher or Lower II| 猜数字大小 II|
+|LeedCode.677|Map Sum Pairs|键值映射|
+|LeedCode.279|Perfect Squares|完全平方数|
 
