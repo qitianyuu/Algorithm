@@ -206,4 +206,6 @@
 |LeedCode.375|Guess Number Higher or Lower II| 猜数字大小 II|
 |LeedCode.677|Map Sum Pairs|键值映射|
 |LeedCode.279|Perfect Squares|完全平方数|
+|LeedCode.319|Bulb Switcher|灯泡开关|
+|LeedCode.523|Continuous Subarray Sum|连续的子数组和|
 
