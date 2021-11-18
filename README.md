@@ -210,5 +210,7 @@
 |LeedCode.523|Continuous Subarray Sum|连续的子数组和|
 |LeedCode.391|Perfect Rectangle|完美矩形|
 |LeedCode.476|Number Complement |数字的补数|
+|LeedCode.165|Compare Version Numbers| 比较版本号|
+|LeedCode.137|Single Number II |只出现一次的数字 II|
 
 
