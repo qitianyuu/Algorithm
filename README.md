@@ -212,5 +212,6 @@
 |LeedCode.476|Number Complement |数字的补数|
 |LeedCode.165|Compare Version Numbers| 比较版本号|
 |LeedCode.137|Single Number II |只出现一次的数字 II|
+|LeedCode.397| Integer Replacement |整数替换|
 
 
