@@ -213,5 +213,4 @@
 |LeedCode.165|Compare Version Numbers| 比较版本号|
 |LeedCode.137|Single Number II |只出现一次的数字 II|
 |LeedCode.397| Integer Replacement |整数替换|
-
-
+|LeedCode.594|Longest Harmonious Subsequence|最长和谐子序列|
