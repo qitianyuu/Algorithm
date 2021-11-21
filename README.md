@@ -214,3 +214,4 @@
 |LeedCode.137|Single Number II |只出现一次的数字 II|
 |LeedCode.397| Integer Replacement |整数替换|
 |LeedCode.594|Longest Harmonious Subsequence|最长和谐子序列|
+|LeedCode.559|Maximum Depth of N-ary Tree N| 叉树的最大深度|
