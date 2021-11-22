@@ -215,3 +215,4 @@
 |LeedCode.397| Integer Replacement |整数替换|
 |LeedCode.594|Longest Harmonious Subsequence|最长和谐子序列|
 |LeedCode.559|Maximum Depth of N-ary Tree N| 叉树的最大深度|
+|LeedCode.559|Shuffle an Array |打乱数组|
