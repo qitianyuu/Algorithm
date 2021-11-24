@@ -217,3 +217,4 @@
 |LeedCode.559|Maximum Depth of N-ary Tree N| 叉树的最大深度|
 |LeedCode.559|Shuffle an Array |打乱数组|
 |LeedCode.859|Buddy Strings |亲密字符串|
+|LeedCode.859|Reconstruct Original Digits from English| 从英文中重建数字|
