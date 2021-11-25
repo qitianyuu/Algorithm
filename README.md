@@ -218,3 +218,4 @@
 |LeedCode.559|Shuffle an Array |打乱数组|
 |LeedCode.859|Buddy Strings |亲密字符串|
 |LeedCode.859|Reconstruct Original Digits from English| 从英文中重建数字|
+|LeedCode.485|Poor Pigs |可怜的小猪|
