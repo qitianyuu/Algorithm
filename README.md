@@ -221,3 +221,4 @@
 |LeedCode.485|Poor Pigs |可怜的小猪|
 |LeedCode.519|Random Flip Matrix| 随机翻转矩阵|
 |LeedCode.517|Super Washing Machines| 超级洗衣机|
+|LeedCode.786|K-th Smallest Prime Fraction| 第 K 个最小的素数分数|
