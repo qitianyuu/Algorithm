@@ -225,3 +225,4 @@
 |LeedCode.400|Nth Digit |第 N 位数字|
 |LeedCode.1446|Consecutive |Characters 连续字符|
 |LeedCode.506|Relative Ranks |相对名次|
+|LeedCode.1005|Maximize Sum Of Array After K Negations |K 次取反后最大化的数组和|
