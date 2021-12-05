@@ -227,4 +227,4 @@
 |LeedCode.506|Relative Ranks |相对名次|
 |LeedCode.1005|Maximize Sum Of Array After K Negations |K 次取反后最大化的数组和|
 |LeedCode.213|House Robber II| 打家劫舍 II|
-|
+|LeedCode.1816|Truncate Sentence |截断句子|
