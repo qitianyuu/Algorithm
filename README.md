@@ -229,3 +229,4 @@
 |LeedCode.213|House Robber II| 打家劫舍 II|
 |LeedCode.1816|Truncate Sentence |截断句子|
 |LeedCode.1034| Coloring A Border |边界着色|
+|LeedCode.689|Maximum Sum of 3 Non-Overlapping Subarrays| 三个无重叠子数组的最大和|
