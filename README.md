@@ -231,3 +231,4 @@
 |LeedCode.1034| Coloring A Border |边界着色|
 |LeedCode.689|Maximum Sum of 3 Non-Overlapping Subarrays| 三个无重叠子数组的最大和|
 |LeedCode.794|Valid Tic-Tac-Toe State| 有效的井字游戏|
+|LeedCode.748|Shortest Completing Word| 最短补全词|
