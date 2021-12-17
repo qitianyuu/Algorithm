@@ -237,3 +237,4 @@
 |LeedCode.807|Max Increase to Keep City Skyline| 保持城市天际线|
 |LeedCode.630|Course Schedule III| 课程表 III|
 |LeedCode.851|Loud and Rich| 喧闹和富有|
+|LeedCode.1518|Water Bottles| 换酒问题|
