@@ -239,3 +239,4 @@
 |LeedCode.851|Loud and Rich| 喧闹和富有|
 |LeedCode.1518|Water Bottles| 换酒问题|
 |LeedCode.1154|Day of the Year| 一年中的第几天|
+|LeedCode.686|Repeated String Match| 重复叠加字符串匹配|
