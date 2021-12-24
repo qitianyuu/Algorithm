@@ -11,6 +11,7 @@ import java.util.PriorityQueue;
  * Author: Qi
  * Date: 12-24-2021
  */
+
 public class No1705 {
 
     public int eatenApples(int[] apples, int[] days) {
