@@ -244,3 +244,4 @@
 |LeedCode.1705|Maximum Number of Eaten Apples| 吃苹果的最大数目| 
 |LeedCode.1609|Even Odd Tree| 奇偶树|
 |LeedCode.1078|Occurrences After Bigram |Bigram 分词|
+|LeedCode.825| Friends Of Appropriate Ages| 适龄的朋友|
