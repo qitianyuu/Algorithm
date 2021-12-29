@@ -245,3 +245,4 @@
 |LeedCode.1609|Even Odd Tree| 奇偶树|
 |LeedCode.1078|Occurrences After Bigram |Bigram 分词|
 |LeedCode.825| Friends Of Appropriate Ages| 适龄的朋友|
+|LeedCode.1995|Count Special Quadruplets| 统计特殊四元组|
