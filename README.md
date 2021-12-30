@@ -247,3 +247,4 @@
 |LeedCode.825| Friends Of Appropriate Ages| 适龄的朋友|
 |LeedCode.1995|Count Special Quadruplets| 统计特殊四元组|
 |LeedCode.846|Hand of Straights| 一手顺子|
+|LeedCode.507|Perfect Number| 完美数|
