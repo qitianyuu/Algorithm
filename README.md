@@ -248,3 +248,4 @@
 |LeedCode.1995|Count Special Quadruplets| 统计特殊四元组|
 |LeedCode.846|Hand of Straights| 一手顺子|
 |LeedCode.507|Perfect Number| 完美数|
+|LeedCode.2022|Convert 1D Array Into 2D Array| 将一维数组转变成二维数组|
