@@ -253,3 +253,4 @@
 |LeedCode.1185| Day of the Week| 一周中的第几天|
 |LeedCode.1576|Replace All ?'s to Avoid Consecutive Repeating Characters| 替换所有的问号|
 |LeedCode.1614|Maximum Nesting Depth of the Parentheses| 括号的最大嵌套深度|
+|LeedCode.1629|Slowest Key| 按键持续时间最长的键|
