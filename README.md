@@ -255,3 +255,4 @@
 |LeedCode.1614|Maximum Nesting Depth of the Parentheses| 括号的最大嵌套深度|
 |LeedCode.1629|Slowest Key| 按键持续时间最长的键|
 |LeedCode.334|Increasing Triplet Subsequence| 递增的三元子序列|
+|LeedCode.747|Largest Number At Least Twice of Others| 至少是其他数字两倍的最大数|
