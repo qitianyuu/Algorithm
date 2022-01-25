@@ -257,3 +257,4 @@
 |LeedCode.334|Increasing Triplet Subsequence| 递增的三元子序列|
 |LeedCode.747|Largest Number At Least Twice of Others| 至少是其他数字两倍的最大数|
 |LeedCode.382|Linked List Random Node| 链表随机节点|
+|LeedCode.1688|Count of Matches in Tournament| 比赛中的配对次数|
