@@ -259,3 +259,4 @@
 |LeedCode.382|Linked List Random Node| 链表随机节点|
 |LeedCode.1688|Count of Matches in Tournament| 比赛中的配对次数|
 |LeedCode.2013|Detect Squares| 检测正方形|
+|LeedCode.2047|Number of Valid Words in a Sentence| 句子中的有效单词数|
