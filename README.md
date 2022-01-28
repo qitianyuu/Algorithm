@@ -260,3 +260,4 @@
 |LeedCode.1688|Count of Matches in Tournament| 比赛中的配对次数|
 |LeedCode.2013|Detect Squares| 检测正方形|
 |LeedCode.2047|Number of Valid Words in a Sentence| 句子中的有效单词数|
+|LeedCode.1996|The Number of Weak Characters in the Game| 游戏中弱角色的数量|
