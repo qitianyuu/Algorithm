@@ -261,3 +261,4 @@
 |LeedCode.2013|Detect Squares| 检测正方形|
 |LeedCode.2047|Number of Valid Words in a Sentence| 句子中的有效单词数|
 |LeedCode.1996|The Number of Weak Characters in the Game| 游戏中弱角色的数量|
+|LeedCode.1765|Map of Highest Peak| 地图中的最高点|
