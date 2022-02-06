@@ -265,3 +265,4 @@
 |LeedCode.2000|Reverse Prefix of Word| 反转单词前缀|
 |LeedCode.1414|Find the Minimum Number of Fibonacci Numbers Whose Sum Is K| 和为 K 的最少斐波那契数字数目|
 |LeedCode.1725|Number Of Rectangles That Can Form The Largest Square| 可以形成最大正方形的矩形数目|
+|LeedCode.1748|Sum of Unique Elements| 唯一元素的和|
