@@ -267,3 +267,4 @@
 |LeedCode.1748|Sum of Unique Elements| 唯一元素的和|
 |LeedCode.498|Diagonal Traverse| 对角线遍历|
 |LeedCode.2006|Count Number of Pairs With Absolute Difference K| 差的绝对值为 K 的数对数目|
+|LeedCode.1447|Simplified Fractions| 最简分数|
