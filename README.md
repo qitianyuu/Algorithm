@@ -1,4 +1,3 @@
-
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/Name-qitianyuu-blue.svg?" alt="">
