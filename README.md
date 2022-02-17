@@ -4,7 +4,6 @@
 </p>
 <h1 align="center">LeetCode 的刷题记录</h1>
 
-
 | # | Name | 题名 |
 |:---------:|:------------:|:-----------:|
 |LeedCode.206|Reverse Linked List |反转链表|
