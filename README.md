@@ -272,4 +272,4 @@
 |LeedCode.2006|Count Number of Pairs With Absolute Difference K| 差的绝对值为 K 的数对数目|
 |LeedCode.1447|Simplified Fractions| 最简分数|
 |LeedCode.388|Longest Absolute File Path|文件的最长绝对路径|
-
+|LeedCode.824|Goat Latin|山羊拉丁文|
