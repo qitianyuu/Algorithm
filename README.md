@@ -273,3 +273,6 @@
 |LeedCode.1447|Simplified Fractions| 最简分数|
 |LeedCode.388|Longest Absolute File Path|文件的最长绝对路径|
 |LeedCode.824|Goat Latin|山羊拉丁文|
+|LCP.50|Gem replenishment|宝石补给|
+|LCP.51|Cooking|烹饪料理|
+|LCP.53|Guarded the space city|守护太空城|
