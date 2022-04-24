@@ -276,3 +276,4 @@
 |LCP.50|Gem replenishment|宝石补给|
 |LCP.51|Cooking|烹饪料理|
 |LCP.53|Guarded the space city|守护太空城|
+|LeedCode.868|Binary Gap|二进制间距
