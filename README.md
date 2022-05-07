@@ -279,3 +279,4 @@
 |LeedCode.868|Binary Gap|二进制间距|
 |LeedCode.427|Construct Quad Tree|建立四叉树|
 |LeedCode.713|Subarray Product Less Than K| 乘积小于 K 的子数组|
+|LeedCode.433|Minimum Genetic Mutation| 最小基因变化|
